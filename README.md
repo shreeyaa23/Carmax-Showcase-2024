@@ -34,7 +34,7 @@ Trade-In Programs Boost Sales
 
 | Category | States | Strategy |
 |----------|--------|----------|
-| Best Locations for New Stores | California (CA), Texas (TX), Florida (FL)*| High web traffic & purchase rates → **Prioritize store expansion** |
+| Best Locations for New Stores | California (CA), Texas (TX), Florida (FL)| High web traffic & purchase rates → **Prioritize store expansion** |
 | Needs Strategy Optimization | New York (NY), Illinois (IL) | High web traffic but lower conversions → **Adjust marketing & inventory** |
 | Not Recommended for Expansion | Ohio (OH), Michigan (MI) | Moderate traffic & low conversions → **High risk for expansion** |
 
