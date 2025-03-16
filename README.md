@@ -13,15 +13,15 @@ Purchase Rates by State
 - **High Purchase Rates (~0.32)**: Texas, Florida → Strong market for expansion.  
 - **Low Purchase Rates (~0.28)**: Ohio, Illinois → Require marketing and pricing adjustments.  
 
-##Web Visits & Market Activity  
+Web Visits & Market Activity  
 - **California leads** with **~70,000 visits**, suggesting strong engagement.  
 - **Under-engaged states** like **Idaho & Utah (~20,000 visits)** offer potential for brand expansion.  
 
-##Financing Impact on Sales  
+Financing Impact on Sales  
 - **Luxury & Pickup Segments** have high engagement with financing (150+ finance customers).  
 - **California leads in financing (~607 finance customers)**, correlating with high luxury vehicle sales.  
 
-##Trade-In Programs Boost Sales  
+Trade-In Programs Boost Sales  
 - **Ohio & Illinois**: Trade-in customers have a **higher purchase rate (~38.4%)** compared to non-trade-in customers (~27.7%).  
 - Expanding trade-in incentives could **increase sales in other states**.  
 
