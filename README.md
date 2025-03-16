@@ -50,5 +50,5 @@ Trade-In Programs Boost Sales
 
 ## Future Scope  
 - Deeper regional segmentation for micro-targeted marketing.  
-- Comparing digital vs. offline marketing impact** on sales.  
-- Integrating economic factors (income, employment rates, competition)** into store selection.  
+- Comparing digital vs. offline marketing impact on sales.  
+- Integrating economic factors (income, employment rates, competition) into store selection.  
