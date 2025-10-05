@@ -30,7 +30,7 @@ Trade-In Programs Boost Sales
 
 ---
 
-## 📍 Strategic Recommendations  
+## Strategic Recommendations  
 
 | Category | States | Strategy |
 |----------|--------|----------|
